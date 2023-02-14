@@ -1,1 +1,1 @@
-print(privet)
+print(privet7978)
